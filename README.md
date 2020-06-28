@@ -34,7 +34,7 @@ src
 src/public
 ├── app                                     # our own frontend js code
 │   └── common.js
-├── components                              # our own html snippets
+├── components                              # own own html snippets
 │   └── navbar.html
 ├── css                                     # css libraries we are using
 │   └── bootstrap.css
